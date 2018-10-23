@@ -1,0 +1,8 @@
+main:
+  user: [
+    link : [
+      page: 'misp.misp_route',
+      icon: 'party_mode',
+      title: 'MISP'
+    ]
+  ]
