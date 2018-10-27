@@ -1,5 +1,5 @@
 # coding=utf-8
-from app.plugins.MISP.routes import misp_page
+from aucr_app.plugins.MISP.routes import misp_page
 # TODO create models.py file
 # from app.plugins.MISP import models
 
